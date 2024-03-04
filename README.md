@@ -26,6 +26,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+    - Good at Working in a team or alone
+    - Good at Communicating
+  
+      
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
