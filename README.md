@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Ethan Kyle Afrika-Peters 
+- **Date:28 May 2005
+- **Current Role/Position:Student at Codespace
+- **Field of Interest:Softwaree Developer 
 
 ### Part 1: Self-Assessment Reflection
 
